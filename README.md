@@ -43,6 +43,7 @@ If the user does not select any of the parameters, the password will not generat
 I had two different collaborators on this project. Their names and github profiles will be below:
 
 George Jordan Sr. - https://github.com/Judgedgeo - Bounced ideas between eachother, helping eachother solve problems as we worked on the project.
+
 Matthew Recksiedler - https://github.com/mare8229 - Helped at the very end to finalize my code. Matthew has multiple years of experience on JavaScript, and his input was extremely helpful.
 
 I also spent hours digging through the internet looking for solutions, including W3Schools, and Stackoverflow.
