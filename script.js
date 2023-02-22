@@ -12,7 +12,7 @@ var confirmSpecial;
 var confirmation;
 // The main function of the code, providing the random generation to the code.
 function generatePassword() {
-        
+// Password Parameter Prompts
     passwordLength = prompt("Choose password length (Enter a value between 8-128 characters).");
         if(!passwordLength) {
             alert("You have to choose a value.")
@@ -26,7 +26,7 @@ function generatePassword() {
         };
 
         var confirmation = [];
-// Concatenates the user input, letting the code know which parameters have been selected.
+// Concatenates the user input, letting the program know which parameters have been selected.
 // Checks if the user DOES want lowercase letters included, and concatenates them inside the function.
         if (confirmLowercase) {
             confirmation = confirmation.concat(lowerCase);
